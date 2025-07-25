@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: url("../images/pexels-adrienne-andersen-1174503-2552127.jpg");
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat ;
+    min-height:80vh ;
+}
